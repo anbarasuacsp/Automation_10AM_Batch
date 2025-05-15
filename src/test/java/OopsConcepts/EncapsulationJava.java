@@ -1,7 +1,10 @@
 package OopsConcepts;
 
 class Student {
+
+
     private String name;
+
 
     // Getter
     public String getName() {
